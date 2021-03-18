@@ -1,0 +1,14 @@
+[
+    {
+        "gene_name": "gene1",
+        "RNA sequence": "ATGTATGCAGAGATCTATAGCGTA",
+        "Domains": ["domain1", "domain2", "domain3"]
+        },
+
+    {
+        "gene_name": "gene2",
+        "RNA sequence": "TGCGAYCGAATTTCAAACTTAC",
+        "Domains": ["domainA", "domainB", "domainC"]
+       }
+
+    ]
